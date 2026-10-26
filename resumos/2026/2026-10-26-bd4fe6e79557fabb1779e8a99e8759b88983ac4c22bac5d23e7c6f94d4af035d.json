@@ -1,0 +1,6 @@
+{
+ "dia": "2026-10-26",
+ "formato": "impacto-ancora/1",
+ "o_que_e": "Resumo (SHA-256) das pontas das cadeias de hash da plataforma neste dia. Não é carimbo de tempo de Autoridade de Carimbo de Tempo; o horário do commit é do GitHub.",
+ "sha256_das_pontas": "bd4fe6e79557fabb1779e8a99e8759b88983ac4c22bac5d23e7c6f94d4af035d"
+}
